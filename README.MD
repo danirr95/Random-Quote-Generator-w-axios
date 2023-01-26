@@ -3,3 +3,6 @@ I build a random quote generator with axios and react, that's employ a simple us
 
 # To run the project
 npm run dev
+
+#Deployment in Netlify
+https://ephemeral-granita-dd5ffd.netlify.app/
